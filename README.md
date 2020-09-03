@@ -13,19 +13,16 @@ For someone creating a project the last thing they want to do is spend a ton of 
 
 ---
 
-- [README_Generator](#readme_generator)
-  - [Description](#description)
-  - [Table of content](#table-of-content)
-  - [Installation](#installation)
-    - [Clone](#clone)
-    - [Setup](#setup)
-  - [Test](#test)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Support/Questions](#supportquestions)
-  - [License](#license)
-
-
+* [README_Generator](#readme_generator)  
+* [Description](#description)
+* [Table of content](#table-of-content)
+* [Installation](#installation)
+* [Setup](#setup)
+* [Test](#test)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Support/Questions](#supportquestions)
+* [License](#license)
 
 
 ## Installation
@@ -44,15 +41,9 @@ For someone creating a project the last thing they want to do is spend a ton of 
 >![](code.img\readme.img.png)
 
 
-### Clone
+## Setup
 
-
-* Clone this repo to your locally using: 
-><https://github.com/Rauloropesa3/README_Generator.git>
-
-
-### Setup
-
+---
 
 * node js
 >Windows 10
@@ -68,6 +59,7 @@ For someone creating a project the last thing they want to do is spend a ton of 
 
 ---
 
+
 ![](README-Generator.gif)
 
 
@@ -76,6 +68,21 @@ For someone creating a project the last thing they want to do is spend a ton of 
 ---
 
 At the conclusion of the questions, all of the users input will be appended to a README file specifically tuned to make the application description as precise as possible. Ultimately saving the user time for developement.
+
+>***Watch the video:***
+>
+><https://drive.google.com/file/d/1K1BbWfxK_noSBJQwz6yZ5IBeZqrGWJ5i/view>
+
+>***Find me on Github:***
+>
+><https://rauloropesa3.github.io/README_Generator/>
+
+>***Or just checkout my README:***
+>
+><https://rauloropesa3.github.io/README_Generator/>>
+
+
+
 
 
 ## Contributing
@@ -90,27 +97,22 @@ At the conclusion of the questions, all of the users input will be appended to a
 
 
 * **Option 2**
-   - Clone this repo to your local machine using <https://github.com/Rauloropesa3/README_Generator.git>
+   - Clone thr repo to your local machine 
 
 
 ***step 2***
   * Hack Away!!!
-  * 
+  * Create a new pull request
 
 ## Support/Questions
 
 ---
 
+
 Reach out to me if you have any questions!
 
-
-* At Github:
->  - <https://github.com/Rauloropesa3/README_Generator.git>
- > - <https://rauloropesa3.github.io/README_Generator/>
- 
-
-* Or by email:
- - alexoropes1982@yahoo.com
+* Via email:
+  - alexoropes1982@yahoo.com
 
 
 ## License
