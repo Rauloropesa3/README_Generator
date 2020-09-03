@@ -75,7 +75,9 @@ At the conclusion of the questions, all of the users input will be appended to a
 
 >***Find me on Github:***
 >
-><https://rauloropesa3.github.io/README_Generator/>
+>***At Github:***
+>  <https://github.com/Rauloropesa3/README_Generator.git>
+ 
 
 >***Or just checkout my README:***
 >
